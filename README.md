@@ -1,6 +1,6 @@
 # Run-apache-server
 
-My First EC2 Project on AWS – From Terminal to Live Website! 💻🌐
+My EC2 Project on AWS – From Terminal to Live Website! 💻🌐
 
 Just achieved a major milestone in my cloud journey:
 
